@@ -73,5 +73,7 @@ This project strengthened my skills in real-world data cleaning, analysis, and d
 
 
 ## 📁 **Files**
-![Excel project](https://github.com/user-attachments/assets/565a3ea1-1078-47b5-bb1c-78350a401d95)
+<img width="923" alt="Excel project" src="https://github.com/user-attachments/assets/7541ae4d-cd95-490d-82ef-3e140d07450d" />
+
+
 
