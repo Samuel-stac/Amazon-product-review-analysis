@@ -70,3 +70,8 @@ The project focuses on analyzing Amazon product listings to uncover insights rel
 ✅ **Completed**
 
 This project strengthened my skills in real-world data cleaning, analysis, and dashboard design using Excel.
+
+
+## 📁 **Files**
+![Excel project](https://github.com/user-attachments/assets/565a3ea1-1078-47b5-bb1c-78350a401d95)
+
