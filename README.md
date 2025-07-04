@@ -181,6 +181,7 @@ The Dashboard includes:
 **Samuel Stac**  
 Aspiring Data Analyst
 
+Email address: samuel87anyebe@gmail.com
 ---
 
 
