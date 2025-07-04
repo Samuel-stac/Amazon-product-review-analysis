@@ -40,7 +40,8 @@ The goal is to transform raw, messy data into clear insights about:
 
 - **Estimated Price (Original Price)**  
   *Formula:*
-  =IF([@[Estimated Price]] < 500, "<₹500",
+
+=IF([@[Estimated Price]] < 500, "<₹500",
 IF([@[Estimated Price]] <= 1500, "₹500–₹1,500",
 IF([@[Estimated Price]] <= 5000, "₹1,500–₹5,000",
 ">₹5,000")))
@@ -51,10 +52,9 @@ IF([@[Estimated Price]] <= 5000, "₹1,500–₹5,000",
 *Formula:*  
 Combined Score = Average Rating × Rating Count
 
-yaml
-Copy
-Edit
 *Explanation:* Ranks products by popularity and quality combined.
+
+*CountIF*
 
 ---
 
