@@ -168,6 +168,20 @@ The Dashboard includes:
 419)
 
 
+## 🚀 **Project Status**
+
+✅ Completed as part of my Data Analysis Capstone.  
+✅ Strengthened my Excel analysis, cleaning, pivot, and visualization skills.  
+✅ Ready to share with recruiters and peers!
+
+---
+
+## 👤 **Author**
+
+**Samuel Stac**  
+Aspiring Data Analyst
+
+---
 
 
 
