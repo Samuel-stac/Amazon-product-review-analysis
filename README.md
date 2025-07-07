@@ -168,6 +168,8 @@ The Dashboard includes:
 ![Pivot table 2](https://github.com/user-attachments/assets/80a145b5-27fe-484f-b2ab-d4c4c75ce800)
 
 <img width= "923" alt="S1" src="https://github.com/user-attachments/assets/9c2ec11d-32b8-4bfb-b952-12d15b96c0b5" />
+
+
 ## 🚀 **Project Status**
 
 ✅ Completed as part of my Data Analysis Capstone.  
