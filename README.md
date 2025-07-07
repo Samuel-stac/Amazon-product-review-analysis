@@ -165,7 +165,7 @@ The Dashboard includes:
 
 <img width= "923" alt="P1" src="https://github.com/user-attachments/assets/7fc21285-1822-4af3-a844-b9cd2dce32ee" />
 
-<img width= "923" alt="" src="https://github.com/user-attachments/assets/c2bcbbaf-3e92-4c65-bc74-a3a7496ae08" />
+![Pivot table 2](https://github.com/user-attachments/assets/80a145b5-27fe-484f-b2ab-d4c4c75ce800)
 
 <img width= "923" alt="S1" src="https://github.com/user-attachments/assets/9c2ec11d-32b8-4bfb-b952-12d15b96c0b5" />
 ## 🚀 **Project Status**
