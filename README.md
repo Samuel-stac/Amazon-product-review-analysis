@@ -161,13 +161,12 @@ The Dashboard includes:
 
 [Amazon  Excel Project.xlsx](https://github.com/user-attachments/files/21052046/Amazon.Excel.Project.xlsx)
 
+
+![S1](https://github.com/user-attachments/assets/9c2ec11d-32b8-4bfb-b952-12d15b96c0b5)
+![P1](https://github.com/user-attachments/assets/7fc21285-1822-4af3-a844-b9cd2dce32ee)
 <img width="923" alt="Excel project" src="https://github.com/user-attachments/assets/7541ae4d-cd95-490d-82ef-3e140d07450d" />
-![Raw data ](https://github.com/user-attachments/assets/96845c11-12fb-4f9b-b0ca-eace9254da38)
-![Pivot table 2](https://github.com/user-attachments/assets/74ebc9dc-3e78-4272-bfce-6ed4b42d0)
-![Pivot table 1](https://github.com/user-attachments/assets/b52aa914-7b2d-4a7b-a893-e14e6397900c)
-419)
-
-
+<img width= "923" alt="P1" src="https://github.com/user-attachments/assets/7fc21285-1822-4af3-a844-b9cd2dce32ee" />
+<img width= "923" alt="S1" src="https://github.com/user-attachments/assets/9c2ec11d-32b8-4bfb-b952-12d15b96c0b5" />
 ## 🚀 **Project Status**
 
 ✅ Completed as part of my Data Analysis Capstone.  
